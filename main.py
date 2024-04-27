@@ -68,7 +68,3 @@ calculate_button.pack()
 results_label = tk.Label(frame, text="")
 results_label.pack()
 root.mainloop()
-"test content for git tutorial" 
-"test content for git tutorial" 
-"test content for git tutorial" 
-"# special-project-astro" 
